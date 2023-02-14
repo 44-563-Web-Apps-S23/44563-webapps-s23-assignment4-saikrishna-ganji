@@ -22,4 +22,41 @@
   .JACQUES {
     color: rgb(32, 110, 129);
   }
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+    
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 9px;
+    border-radius: 15px;
+  }
+  
+  th {
+    background-color: #b8c77d;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  td:first-child {
+    font-weight: bold;
+  }
+  
+  td:nth-child(2) {
+    color: #f48de9;
+  }
+  
+  td:last-child {
+    color: #133858;
+  }
+  
+  td, th {
+    border: 0px solid #a73a3a;
+  }
   
