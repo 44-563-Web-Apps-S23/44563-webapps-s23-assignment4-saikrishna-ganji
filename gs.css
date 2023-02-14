@@ -60,3 +60,9 @@
     border: 0px solid #a73a3a;
   }
   
+  h5.JACQUES:hover, h5.HENRIETTE:hover {
+    color: rgb(73, 73, 207);
+    box-shadow: 3px 4px 5px 6px #8c398c;
+    border: 10px solid #a487a4;
+    transition: transform .5s;
+  }
