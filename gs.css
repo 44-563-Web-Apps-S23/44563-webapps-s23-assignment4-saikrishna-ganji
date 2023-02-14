@@ -1,0 +1,25 @@
+.speech {
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    color: black;
+  }
+  .direction {
+    font-family: Georgia, serif;
+    font-size: 15px;
+    color: black;
+  }
+  .direction {
+    background-color: #f1ecec;
+  }
+  .direction:hover {
+    background-color: #dad2d2;
+    color: rgb(244, 241, 241);
+  }
+  .HENRIETTE {
+    color: rgb(114, 40, 148);
+  }
+  
+  .JACQUES {
+    color: rgb(32, 110, 129);
+  }
+  
