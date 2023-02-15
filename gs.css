@@ -61,8 +61,48 @@
   }
   
   h5.JACQUES:hover, h5.HENRIETTE:hover {
-    color: rgb(73, 73, 207);
+    color: rgb(38, 38, 162);
     box-shadow: 3px 4px 5px 6px #8c398c;
     border: 10px solid #a487a4;
     transition: transform .5s;
+  }
+
+  .menu{
+
+    display:flex;
+    justify-content: left;
+    background: orange;
+  }
+  .navbar-MenuBar{
+    padding: 16px;
+    float: left;
+    color: black;
+    display: none;
+    background-color: black;
+    border-radius: 15px;
+  }
+  li a {
+     display: block;
+     color: #060606;
+     text-align: center;
+     padding: 13px 20px;
+     text-decoration: solid;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 3px;
+    overflow: hidden;
+    background-color: #474749;
+  }
+  li {
+    float: left;
+  }
+  .image {
+    width: 40%;
+    height: 30%;
+    margin-top: 35px;
+    margin-bottom: 13px;
+    margin-right: 90px;
+    margin-left: 65px;
   }
