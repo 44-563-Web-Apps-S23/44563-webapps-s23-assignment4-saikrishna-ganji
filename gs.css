@@ -16,11 +16,11 @@
     color: rgb(244, 241, 241);
   }
   .HENRIETTE {
-    color: rgb(114, 40, 148);
+    color: rgb(243, 10, 60);
   }
   
   .JACQUES {
-    color: rgb(32, 110, 129);
+    color: rgb(93, 189, 8);
   }
 
   table {
@@ -64,6 +64,7 @@
     color: rgb(38, 38, 162);
     box-shadow: 3px 4px 5px 6px #8c398c;
     border: 10px solid #a487a4;
+    filter: blur(1px);
     transition: transform .5s;
   }
 
